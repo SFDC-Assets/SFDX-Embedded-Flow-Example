@@ -17,6 +17,8 @@ To accomplish this use case, we're using a few different features:
 - We use the passed-in values to fetch the appropriate data in the Salesforce DB
 - We pre-fill the form appropriately with thos evalues
 
+Well, anyway, that's what could have worked, but alas, Embedded Service Flows don't support passing in variables this way.
+
 ## Setup Instructions
 
 If you're familiar with SFDX, you'll have everything you need herein to provision a scratch org with the feature enabled. The HTML file included in this repo is an example of a simple website that embeds the JavaScript.
@@ -29,8 +31,8 @@ If you're familiar with SFDX, you'll have everything you need herein to provisio
 6. Deploy the HTML page somewhere (e.g., jsfiddle.net)
 4. Update your `CORS` settings in the Scratch Org to whitelist the web page URL you've deployed
 
-## Test Org
-I've got a developer org that I use to demo this. The username is `fcaron+embedtest@salesforce.com`.
+## Test Version
+I've got a developer org that I use to demo this. The username is `fcaron+embedtest@salesforce.com`. While the Scratch Org is alive, you can test [here](https://jsfiddle.net/wp7g413h/7/).
 
 ## Documentation
 
