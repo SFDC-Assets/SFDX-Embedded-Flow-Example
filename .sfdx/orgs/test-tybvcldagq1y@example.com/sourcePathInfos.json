@@ -1,0 +1,2418 @@
+[
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588344573308,
+            "changeTime": 1588344573308,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588344573308,
+            "changeTime": 1588344573308,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 896,
+            "modifiedTime": 1588347784529,
+            "changeTime": 1588347784529,
+            "contentHash": "ac6d9a6ba5502fe6c7a438b691923046eeb11663"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573308,
+            "changeTime": 1588344573308,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1588347784220,
+            "changeTime": 1588347784220,
+            "contentHash": "dfc44b937669b618fcdf8cd46b471e76b92d74ff"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1600,
+            "modifiedTime": 1588347784453,
+            "changeTime": 1588347784453,
+            "contentHash": "6f5330cd9b23701912e496f4429bfea73e9c7891"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/contentassets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573308,
+            "changeTime": 1588344573308,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573308,
+            "changeTime": 1588344573308,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573308,
+            "changeTime": 1588344573308,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588344573373,
+            "changeTime": 1588344573373,
+            "contentHash": "71c20a341bfe32aa5cd5b4384e94f942bab6a7d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573309,
+            "changeTime": 1588344573309,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573309,
+            "changeTime": 1588344573309,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784181,
+            "changeTime": 1588347784181,
+            "contentHash": "94b65d41e40870e77f72cba72966f3bed8bd0800"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573309,
+            "changeTime": 1588344573309,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/triggers",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1588344573309,
+            "changeTime": 1588344573309,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1588346445295,
+            "changeTime": 1588346445295,
+            "contentHash": "6e3f8b892fba64e6dc27073be0eff6835de656ec",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples.resource-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 279,
+            "modifiedTime": 1588347784170,
+            "changeTime": 1588347784170,
+            "contentHash": "d631b8484f7cf65ecbe56127a65e4ec278d8657d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/SiteStyles.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1588347784181,
+            "changeTime": 1588347784181,
+            "contentHash": "acbb17c79c96e91d9c04ae4c847b7241ccde01de"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/clock.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4681,
+            "modifiedTime": 1588347784182,
+            "changeTime": 1588347784182,
+            "contentHash": "6f2f8d42808b3c04c1a2e7d9b6ba37ea7f862ba7"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/construction.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15051,
+            "modifiedTime": 1588347784183,
+            "changeTime": 1588347784183,
+            "contentHash": "322851d6d1ef8caf107caf445de1b6c05caef6bc"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/force_logo.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1588347784184,
+            "changeTime": 1588347784184,
+            "contentHash": "40bb27e6354b88edcd694651e69ac817cc859541"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/maintenance.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12247,
+            "modifiedTime": 1588347784184,
+            "changeTime": 1588347784184,
+            "contentHash": "3eae4032e6c554a7c44ec277b10f9fa92de2d6cf"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/poweredby.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 984,
+            "modifiedTime": 1588347784185,
+            "changeTime": 1588347784185,
+            "contentHash": "a29fa078df1fc18309a8fa02d5941312e4e41344"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/tools.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2136,
+            "modifiedTime": 1588347784185,
+            "changeTime": 1588347784185,
+            "contentHash": "06ee26032a159736878decef296cba66ec8d8e25"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/unauthorized.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2076,
+            "modifiedTime": 1588347784186,
+            "changeTime": 1588347784186,
+            "contentHash": "74dc855d72862a1f62d1c9ec0535f43a229fb1a4"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img/warning.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1767,
+            "modifiedTime": 1588347784187,
+            "changeTime": 1588347784187,
+            "contentHash": "90ef2806b042926ca428c19654b9306555b53429"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1588347784201,
+            "changeTime": 1588347784201,
+            "contentHash": "a2a033d89c5d2c2908ca4b124b26ae97a3c6a6a1"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1588347784203,
+            "changeTime": 1588347784203,
+            "contentHash": "7ecc66999387934c5dea131a1825ab1c7703f11f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1433,
+            "modifiedTime": 1588347784203,
+            "changeTime": 1588347784203,
+            "contentHash": "b23bd13dd4e4a91d377bd7dc39826c44fb349ffd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPassword.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1732,
+            "modifiedTime": 1588347784204,
+            "changeTime": 1588347784204,
+            "contentHash": "315d442c8f2b49ea3d63f7c728dfcff24c3e3a99"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPasswordHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1043,
+            "modifiedTime": 1588347784205,
+            "changeTime": 1588347784205,
+            "contentHash": "2002734bc484699cf8d5f68bb5930de6801e5b3e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPasswordController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword/forgotPasswordController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 765,
+            "modifiedTime": 1588347784205,
+            "changeTime": 1588347784205,
+            "contentHash": "830df9a34fd83eb9e7916aea616541d67dbc34e6"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1588347784206,
+            "changeTime": 1588347784206,
+            "contentHash": "dc8d422aac9697ec7cb58f5c4ca041398949b14c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 714,
+            "modifiedTime": 1588347784207,
+            "changeTime": 1588347784207,
+            "contentHash": "c50da00f4f7211befe944a7e800c75a3c31d3c81"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegisterController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegisterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1183,
+            "modifiedTime": 1588347784208,
+            "changeTime": 1588347784208,
+            "contentHash": "1ac99d86482ed0f2997f150773d0f867705fe610"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5281,
+            "modifiedTime": 1588347784208,
+            "changeTime": 1588347784208,
+            "contentHash": "3fd8be0700fabe1c7aae4090088fbea18e02c349"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegister.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3412,
+            "modifiedTime": 1588347784209,
+            "changeTime": 1588347784209,
+            "contentHash": "eb17e7321358d4e1f50506328593d32deef7e6ff"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegisterHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister/selfRegisterHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2424,
+            "modifiedTime": 1588347784210,
+            "changeTime": 1588347784210,
+            "contentHash": "e579fbb4dae5e6c3e604f900719e1c697908fe02"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1588347784213,
+            "changeTime": 1588347784213,
+            "contentHash": "0a4a72737d90e1812950b81b51dbbe14ee927681"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginFormHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginFormHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2872,
+            "modifiedTime": 1588347784214,
+            "changeTime": 1588347784214,
+            "contentHash": "0005d3525bc7e18a24f19df148a2833b4a1ccb5e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginFormController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginFormController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2950,
+            "modifiedTime": 1588347784215,
+            "changeTime": 1588347784215,
+            "contentHash": "64e5af91d1a6454d38258590c1efdfc27222c2ff"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 546,
+            "modifiedTime": 1588347784215,
+            "changeTime": 1588347784215,
+            "contentHash": "9c45d15bab64fa1cfe6466a3cea52b68fbcc787c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1851,
+            "modifiedTime": 1588347784216,
+            "changeTime": 1588347784216,
+            "contentHash": "e863ec165e4c2983bf703eaf60418cf394ead707"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm/loginForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4098,
+            "modifiedTime": 1588347784216,
+            "changeTime": 1588347784216,
+            "contentHash": "8cad4a3886eb1be09b766a10c7a0975c6c1fdf46"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setStartUrl/setStartUrl.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1588347784218,
+            "changeTime": 1588347784218,
+            "contentHash": "f1517318ba09c82754848d682bb53ea2feec5447"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setStartUrl/setStartUrl.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setStartUrl/setStartUrl.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784219,
+            "changeTime": 1588347784219,
+            "contentHash": "36d4cf2f3ee9039bdae4d29a0056923260d7373b"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setExpId/setExpId.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setExpId/setExpId.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1588347784220,
+            "changeTime": 1588347784220,
+            "contentHash": "b7b96a2c1f65b5c3b196c414a0677dd61b75ba8e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setExpId/setExpId.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setExpId/setExpId.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784221,
+            "changeTime": 1588347784221,
+            "contentHash": "3eb7d547ead7f9611baf1f7ee880973ccb65889c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteLogin.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteLogin.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 255,
+            "modifiedTime": 1588347784223,
+            "changeTime": 1588347784223,
+            "contentHash": "9492fab217f15ff71dc54f8ceb6daffb45847044"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteLogin.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteLogin.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1254,
+            "modifiedTime": 1588347784225,
+            "changeTime": 1588347784225,
+            "contentHash": "bc708781ea43467adf9e0efda09caf0e4abc96ba"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteFooter.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteFooter.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1588347784229,
+            "changeTime": 1588347784229,
+            "contentHash": "f7dd01ecf51df5243d3847df8f09a9b6cb476f13"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteFooter.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteFooter.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 77,
+            "modifiedTime": 1588347784230,
+            "changeTime": 1588347784230,
+            "contentHash": "8c9f2b97bbfa52fdef76795bfea4a72ea95d3258"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteHeader.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteHeader.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1588347784233,
+            "changeTime": 1588347784233,
+            "contentHash": "33fcdd958022785beba4d0e6ac22829875451194"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteHeader.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SiteHeader.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1214,
+            "modifiedTime": 1588347784234,
+            "changeTime": 1588347784234,
+            "contentHash": "0a710387c2669b94a3224b8016f37d0a3fc20948"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SitePoweredBy.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 271,
+            "modifiedTime": 1588347784237,
+            "changeTime": 1588347784237,
+            "contentHash": "d74ecedb05d9fc9968db890e64289619310b3fc2"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SitePoweredBy.component",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components/SitePoweredBy.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 532,
+            "modifiedTime": 1588347784238,
+            "changeTime": 1588347784238,
+            "contentHash": "353f26acfff5ff089406bc9b6029fec483f8360f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegister.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegister.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1588347784241,
+            "changeTime": 1588347784241,
+            "contentHash": "f50ee14f095cb2c0e8c5219e0d4f38e817d69c55"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegister.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegister.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2535,
+            "modifiedTime": 1588347784242,
+            "changeTime": 1588347784242,
+            "contentHash": "41ff51ebecfc21b5b03567851586edbc5fefc6bf"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ChangePassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ChangePassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1588347784246,
+            "changeTime": 1588347784246,
+            "contentHash": "150c16a1277410b394f8a9538f8b17d2de8cd678"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ChangePassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ChangePassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2253,
+            "modifiedTime": 1588347784248,
+            "changeTime": 1588347784248,
+            "contentHash": "ef99757f7f329769d4297658a07069ba6479259a"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPasswordConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1588347784250,
+            "changeTime": 1588347784250,
+            "contentHash": "6bc04735a4b14ea83577e81a8cd2b17acd417784"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPasswordConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPasswordConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1315,
+            "modifiedTime": 1588347784251,
+            "changeTime": 1588347784251,
+            "contentHash": "b36e48b39e4d3b8b31a82c9c5eee2ffffc194ee3"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegisterConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 387,
+            "modifiedTime": 1588347784254,
+            "changeTime": 1588347784254,
+            "contentHash": "e9824f6ce1efb3fff7d6ec77b063f25df1b09b17"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegisterConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteRegisterConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1336,
+            "modifiedTime": 1588347784255,
+            "changeTime": 1588347784255,
+            "contentHash": "e1c4950e6f20b5744e83b77652be25196945a53b"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPassword.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1588347784259,
+            "changeTime": 1588347784259,
+            "contentHash": "4885996d0b6add5b29232fffce0c68190f425640"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPassword.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/ForgotPassword.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1734,
+            "modifiedTime": 1588347784262,
+            "changeTime": 1588347784262,
+            "contentHash": "d08010b952d7bc3b249a76a840810bef066c56e8"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 352,
+            "modifiedTime": 1588347784267,
+            "changeTime": 1588347784267,
+            "contentHash": "e9623c3cda842cb92f06c6ceb50a53e451ff7e07"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1178,
+            "modifiedTime": 1588347784269,
+            "changeTime": 1588347784269,
+            "contentHash": "cbc0628ee0ca131ce53c251ae3221ba5048f2020"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLogin.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLogin.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 354,
+            "modifiedTime": 1588347784272,
+            "changeTime": 1588347784272,
+            "contentHash": "7b68f0e06273d1db347a00f214540b6459412596"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLogin.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLogin.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1588347784273,
+            "changeTime": 1588347784273,
+            "contentHash": "d494d65b30936c6c6cc4ea317ca0be26fefd0899"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLanding.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLanding.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1588347784276,
+            "changeTime": 1588347784276,
+            "contentHash": "6eaa277b2f44ac7cfb4a8eae86417ada55284f7d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLanding.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesLanding.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1588347784280,
+            "changeTime": 1588347784280,
+            "contentHash": "f4f56310b743abd6983739cb9fb38a89ed8bd5d9"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfReg.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 368,
+            "modifiedTime": 1588347784286,
+            "changeTime": 1588347784286,
+            "contentHash": "ef7bf66874ce522cdadd5df3cfeefc80b682ec82"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfReg.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfReg.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1835,
+            "modifiedTime": 1588347784292,
+            "changeTime": 1588347784292,
+            "contentHash": "8740a361c26a708331f96b5d59b82154d2efcf9c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfRegConfirm.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1588347784295,
+            "changeTime": 1588347784295,
+            "contentHash": "8722f8709fbbad3fa545cc3e8a983348d4336d89"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfRegConfirm.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesSelfRegConfirm.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1369,
+            "modifiedTime": 1588347784297,
+            "changeTime": 1588347784297,
+            "contentHash": "9bd974d33dbf89a831056f0b8e84b9b425e7df18"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/AnswersHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/AnswersHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 373,
+            "modifiedTime": 1588347784300,
+            "changeTime": 1588347784300,
+            "contentHash": "6d8b3d575aa29cbe9b6157cc1cbadbf38f80224d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/AnswersHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/AnswersHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 61,
+            "modifiedTime": 1588347784302,
+            "changeTime": 1588347784302,
+            "contentHash": "a82a578935f0381f7ce194fc36f422775d6ab707"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1588347784304,
+            "changeTime": 1588347784304,
+            "contentHash": "6943518c429e11f32743f90a302f6d544e5becaa"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/CommunitiesTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 254,
+            "modifiedTime": 1588347784305,
+            "changeTime": 1588347784305,
+            "contentHash": "959a24656384758f13bbd30dfa419f0ca6f0392d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/UnderConstruction.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 375,
+            "modifiedTime": 1588347784308,
+            "changeTime": 1588347784308,
+            "contentHash": "c50da9d1b754dceeba1866a4dca39a43909a1d98"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/UnderConstruction.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/UnderConstruction.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 595,
+            "modifiedTime": 1588347784309,
+            "changeTime": 1588347784309,
+            "contentHash": "162bd59e7d2cc6f57d1b2e62831713147007d563"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/IdeasHome.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/IdeasHome.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1588347784311,
+            "changeTime": 1588347784311,
+            "contentHash": "3663a6bd1c7080ced1526d2ec937444b2435dd81"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/IdeasHome.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/IdeasHome.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 56,
+            "modifiedTime": 1588347784312,
+            "changeTime": 1588347784312,
+            "contentHash": "321994aef1dc6905bd2f9ea1275cef640575796a"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1588347784315,
+            "changeTime": 1588347784315,
+            "contentHash": "dd7ccc18d2dfd4cd81d1e0a2ad01dc3740a6b236"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/SiteTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 363,
+            "modifiedTime": 1588347784316,
+            "changeTime": 1588347784316,
+            "contentHash": "0795cba97d90e8e6f4511bdc6845b4f6ba593a49"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/FileNotFound.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/FileNotFound.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1588347784317,
+            "changeTime": 1588347784317,
+            "contentHash": "cf3106b0119c9496f4da2dd481ba60490a5b171b"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/FileNotFound.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/FileNotFound.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1390,
+            "modifiedTime": 1588347784318,
+            "changeTime": 1588347784318,
+            "contentHash": "05705db68c561260a078d5a0d8877ec9f5f986e1"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/MyProfilePage.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 361,
+            "modifiedTime": 1588347784320,
+            "changeTime": 1588347784320,
+            "contentHash": "efc9b9cf0e01fb0251425afeb8b22e573200dd6b"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/MyProfilePage.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/MyProfilePage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5352,
+            "modifiedTime": 1588347784322,
+            "changeTime": 1588347784322,
+            "contentHash": "620edf5c2c314699cb5acd8a29ee2897a7f4be9c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/StdExceptionTemplate.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1588347784323,
+            "changeTime": 1588347784323,
+            "contentHash": "d5b8f4a21eaceb1886f85ff392f22daa55d191ad"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/StdExceptionTemplate.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/StdExceptionTemplate.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 918,
+            "modifiedTime": 1588347784325,
+            "changeTime": 1588347784325,
+            "contentHash": "ee21ef14d08dc898cc2f7c14b009b44e39843047"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/InMaintenance.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/InMaintenance.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1588347784327,
+            "changeTime": 1588347784327,
+            "contentHash": "2cc16a6ec7c7ab43b498b1679e7ce70b8a716d51"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/InMaintenance.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/InMaintenance.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 629,
+            "modifiedTime": 1588347784328,
+            "changeTime": 1588347784328,
+            "contentHash": "12e7accec2f2bc348d5e0fe3ca539cfb3e145873"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Unauthorized.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Unauthorized.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1588347784331,
+            "changeTime": 1588347784331,
+            "contentHash": "d5292f109e738a456e2e56552445b05d8aa528f6"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Unauthorized.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Unauthorized.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1728,
+            "modifiedTime": 1588347784333,
+            "changeTime": 1588347784333,
+            "contentHash": "e2d900a0e0685865732acee0c84539a31cb8638e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/BandwidthExceeded.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1588347784335,
+            "changeTime": 1588347784335,
+            "contentHash": "cf02c5f85e9a700715098749ffc91f8cd9f1bfa8"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/BandwidthExceeded.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/BandwidthExceeded.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 521,
+            "modifiedTime": 1588347784336,
+            "changeTime": 1588347784336,
+            "contentHash": "fbd51e9cb151f08b2ba8c0d96f4cca9173c3a818"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Exception.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Exception.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 379,
+            "modifiedTime": 1588347784338,
+            "changeTime": 1588347784338,
+            "contentHash": "840dcdb6333db0098402d00cc6e1291aa17eb750"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Exception.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages/Exception.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1439,
+            "modifiedTime": 1588347784340,
+            "changeTime": 1588347784340,
+            "contentHash": "7149555a289c449a7acbe66be14756414e0468c5"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows/Create_Account_Flow.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows/Create_Account_Flow.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3627,
+            "modifiedTime": 1588347784347,
+            "changeTime": 1588347784347,
+            "contentHash": "12a0eade76df929ab8659085a0b45fffbfa079a4"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784349,
+            "changeTime": 1588347784349,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 506,
+            "modifiedTime": 1588347784351,
+            "changeTime": 1588347784351,
+            "contentHash": "66dcdb35e263e3858438516c272143f39594ab6b"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784353,
+            "changeTime": 1588347784353,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1584,
+            "modifiedTime": 1588347784354,
+            "changeTime": 1588347784354,
+            "contentHash": "2e72ea98db541366419984e2a8878f467de5a3e5"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784356,
+            "changeTime": 1588347784356,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/MyProfilePageControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2792,
+            "modifiedTime": 1588347784357,
+            "changeTime": 1588347784357,
+            "contentHash": "3dad7650b8dd8e6e57710fec687bf1bb5eff80bd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784359,
+            "changeTime": 1588347784359,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 516,
+            "modifiedTime": 1588347784361,
+            "changeTime": 1588347784361,
+            "contentHash": "cf9f2476b780b0f6cf19e569521fe72388a25bf6"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784363,
+            "changeTime": 1588347784363,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 721,
+            "modifiedTime": 1588347784364,
+            "changeTime": 1588347784364,
+            "contentHash": "00a06a0620a60d0ee0118431a169b4ec3ba79891"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784368,
+            "changeTime": 1588347784368,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 467,
+            "modifiedTime": 1588347784370,
+            "changeTime": 1588347784370,
+            "contentHash": "769eaed52f3c934b7ad9b57adcb55a922c257168"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784377,
+            "changeTime": 1588347784377,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ChangePasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 642,
+            "modifiedTime": 1588347784378,
+            "changeTime": 1588347784378,
+            "contentHash": "0bb3c4ec096aa5dd33d79abbb693eb98b3e899a0"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784381,
+            "changeTime": 1588347784381,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/ForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 480,
+            "modifiedTime": 1588347784382,
+            "changeTime": 1588347784382,
+            "contentHash": "f90081d88c1b56f4db006bf0c9022a1b23126145"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784386,
+            "changeTime": 1588347784386,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 434,
+            "modifiedTime": 1588347784388,
+            "changeTime": 1588347784388,
+            "contentHash": "45bce0841ca7e53e9891170118879727980b051a"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784390,
+            "changeTime": 1588347784390,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 558,
+            "modifiedTime": 1588347784391,
+            "changeTime": 1588347784391,
+            "contentHash": "676ee62c09240e726b685da56266e2201bf46664"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784394,
+            "changeTime": 1588347784394,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/SiteRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2077,
+            "modifiedTime": 1588347784395,
+            "changeTime": 1588347784395,
+            "contentHash": "19e473741cd0e4047e59345c952d815aa05e1ac2"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784397,
+            "changeTime": 1588347784397,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1079,
+            "modifiedTime": 1588347784398,
+            "changeTime": 1588347784398,
+            "contentHash": "e1e93bc0b3687bf1d952419a750eb1c08887706f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784400,
+            "changeTime": 1588347784400,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1332,
+            "modifiedTime": 1588347784401,
+            "changeTime": 1588347784401,
+            "contentHash": "21d44e671389d01c2035cb54f2a3b22777492713"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784403,
+            "changeTime": 1588347784403,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6197,
+            "modifiedTime": 1588347784406,
+            "changeTime": 1588347784406,
+            "contentHash": "0078ae1357b38fec34ceffb97e7249e51daa04e6"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784409,
+            "changeTime": 1588347784409,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 469,
+            "modifiedTime": 1588347784410,
+            "changeTime": 1588347784410,
+            "contentHash": "e91f7457a25b5da77131fe41c8f29c04bc7867c2"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784412,
+            "changeTime": 1588347784412,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningSelfRegisterController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5572,
+            "modifiedTime": 1588347784413,
+            "changeTime": 1588347784413,
+            "contentHash": "ed5ee92fa1fa56d090e83ef0e235b5bf6c188fe7"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784415,
+            "changeTime": 1588347784415,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningForgotPasswordController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1038,
+            "modifiedTime": 1588347784416,
+            "changeTime": 1588347784416,
+            "contentHash": "326dc096dacead23bcce832cafa8046eeff5821c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784418,
+            "changeTime": 1588347784418,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/LightningLoginFormController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1972,
+            "modifiedTime": 1588347784419,
+            "changeTime": 1588347784419,
+            "contentHash": "f1fd99eb82c4744783af85a86be464c1f8e321ad"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784421,
+            "changeTime": 1588347784421,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 877,
+            "modifiedTime": 1588347784422,
+            "changeTime": 1588347784422,
+            "contentHash": "84070006a2c57644fd7d707525e9297ec15f91a0"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784433,
+            "changeTime": 1588347784433,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegConfirmController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1588347784434,
+            "changeTime": 1588347784434,
+            "contentHash": "d699d2c76978ccad1fc33fcd78ed17c360747337"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784437,
+            "changeTime": 1588347784437,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLoginControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1588347784438,
+            "changeTime": 1588347784438,
+            "contentHash": "cb9e706e4f2584adcf80c77bf7fd48a140f907db"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784442,
+            "changeTime": 1588347784442,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 369,
+            "modifiedTime": 1588347784444,
+            "changeTime": 1588347784444,
+            "contentHash": "f0aa4e4a73ec760302173389f42991266a807010"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784448,
+            "changeTime": 1588347784448,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingControllerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesLandingControllerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 795,
+            "modifiedTime": 1588347784449,
+            "changeTime": 1588347784449,
+            "contentHash": "9fc17f3ba0a097f66fc1467c82c8e1d22398b48f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1588347784451,
+            "changeTime": 1588347784451,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/classes/CommunitiesSelfRegController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2805,
+            "modifiedTime": 1588347784453,
+            "changeTime": 1588347784453,
+            "contentHash": "68250b28cbd25dc5afb432323903534767578a58"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25414,
+            "modifiedTime": 1588347784483,
+            "changeTime": 1588347784483,
+            "contentHash": "cac390958124bec34e136e5cbf451afcac301c16"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profiles/Embedded Flow Test Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profiles/Embedded Flow Test Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5964,
+            "modifiedTime": 1588347784487,
+            "changeTime": 1588347784487,
+            "contentHash": "ab7eaafa8cc27b7e462d1fb5674ad7405ddd0d3f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profilePasswordPolicies/Embedded_Flow_Test_Profile_profilePasswordPolicy1588347725042.profilePasswordPolicy-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profilePasswordPolicies/Embedded_Flow_Test_Profile_profilePasswordPolicy1588347725042.profilePasswordPolicy-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 653,
+            "modifiedTime": 1588347784492,
+            "changeTime": 1588347784492,
+            "contentHash": "de242e7c198f19fe02b46abbfa5e79b264384d6e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profileSessionSettings/Embedded_Flow_Test_Profile_profileSessionSetting1588347725475.profileSessionSetting-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profileSessionSettings/Embedded_Flow_Test_Profile_profileSessionSetting1588347725475.profileSessionSetting-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 453,
+            "modifiedTime": 1588347784500,
+            "changeTime": 1588347784500,
+            "contentHash": "8aa87a5a68ead7a2d02e9996e26dbc658bcdca6f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/sites/Embedded_Flow_Test.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/sites/Embedded_Flow_Test.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1680,
+            "modifiedTime": 1588347784502,
+            "changeTime": 1588347784502,
+            "contentHash": "1fd965b65feb911ccea571723a4b7e8b84dfa5c0"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/appMenus/AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2121,
+            "modifiedTime": 1588347784505,
+            "changeTime": 1588347784505,
+            "contentHash": "b3057d7a18fd4edfac93f408dd59effda92208ab"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/siteDotComSites/Embedded_Flow_Test1.site-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/siteDotComSites/Embedded_Flow_Test1.site-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1588347784507,
+            "changeTime": 1588347784507,
+            "contentHash": "ddb2ee12cf3ed3e0521dfe920b588c7ce4dc4167"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/siteDotComSites/Embedded_Flow_Test1.site",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/siteDotComSites/Embedded_Flow_Test1.site",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 31460,
+            "modifiedTime": 1588347784509,
+            "changeTime": 1588347784509,
+            "contentHash": "d4d1914b944827db5e87a3f1a6a1905bc7346e4d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networks/Embedded Flow Test.network-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networks/Embedded Flow Test.network-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2655,
+            "modifiedTime": 1588347784518,
+            "changeTime": 1588347784518,
+            "contentHash": "01cd1bcd618ccaf3ee3e5f215acca841c2ba9b21"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networkBranding/cbEmbedded_Flow_Test.networkBranding-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networkBranding/cbEmbedded_Flow_Test.networkBranding-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 639,
+            "modifiedTime": 1588347784520,
+            "changeTime": 1588347784520,
+            "contentHash": "35ad0f2038a4e20f168b624790354dc7768bb2aa"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networkBranding/cbEmbedded_Flow_Test.networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networkBranding/cbEmbedded_Flow_Test.networkBranding",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2,
+            "modifiedTime": 1588347784521,
+            "changeTime": 1588347784521,
+            "contentHash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/audience/Default_Embedded Flow Test.audience-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/audience/Default_Embedded Flow Test.audience-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 321,
+            "modifiedTime": 1588347784524,
+            "changeTime": 1588347784524,
+            "contentHash": "4294267f6493dd7cf10ccd14e3fbad069d00e251"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/navigationMenus/Default_Navigation.navigationMenu-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/navigationMenus/Default_Navigation.navigationMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 249,
+            "modifiedTime": 1588347784525,
+            "changeTime": 1588347784525,
+            "contentHash": "2412be53da5b56cfe1e5985d88c27fb2ba96b211"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceConfig/Embedded_Flow_Example.EmbeddedServiceConfig-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceConfig/Embedded_Flow_Example.EmbeddedServiceConfig-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 632,
+            "modifiedTime": 1588347784530,
+            "changeTime": 1588347784530,
+            "contentHash": "566a5f10fb7c73d5cfc4e95ca943e25dfbde7089"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784182,
+            "changeTime": 1588347784182,
+            "contentHash": "9f4bb3dd78853fee52f25b5a18949a8603beab6b"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/staticresources/SiteSamples/img",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1588347784186,
+            "changeTime": 1588347784186,
+            "contentHash": "ca36f65b7f8888bd595c26bba98c091a986284ab"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/forgotPassword",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1588347784205,
+            "changeTime": 1588347784205,
+            "contentHash": "6df7eaba9112e9d3d73be83929076ecdb37c6e02"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/selfRegister",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1588347784210,
+            "changeTime": 1588347784210,
+            "contentHash": "8df7cfb5f48f3f00fcd4dd27c869c4cfdccd250c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/loginForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1588347784216,
+            "changeTime": 1588347784216,
+            "contentHash": "fd718632c89a370e59634cc3aa2c6f67e9702b0c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setStartUrl",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setStartUrl",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784219,
+            "changeTime": 1588347784219,
+            "contentHash": "932a38c2997891d2654c0893c0e1a4288e7c15ff"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setExpId",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/setExpId",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784221,
+            "changeTime": 1588347784221,
+            "contentHash": "11feaa7814348a87d18c4891772d2ec32891466d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/components",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1588347784238,
+            "changeTime": 1588347784238,
+            "contentHash": "7e3b47b6f015d41da2682d23c08c6bd410b8f4bb"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 1472,
+            "modifiedTime": 1588347784340,
+            "changeTime": 1588347784340,
+            "contentHash": "54a2cf26a57a9ce2c57e7c0f9e4e09990ad938cc"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784347,
+            "changeTime": 1588347784347,
+            "contentHash": "b774dc48a8678b4da4a38e4531d511da7bb0d272"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784487,
+            "changeTime": 1588347784487,
+            "contentHash": "fb66c7a15fc3f9d0fe0eaf3c6ce1d169a7e7d385"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profilePasswordPolicies",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profilePasswordPolicies",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784492,
+            "changeTime": 1588347784492,
+            "contentHash": "af1224bd44dbdc58ac3b5a5e8a9e20101dae40f5"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profileSessionSettings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/profileSessionSettings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784500,
+            "changeTime": 1588347784500,
+            "contentHash": "343c1f5e3048e691218a02788824cf2aa2a3d26e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/sites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/sites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784502,
+            "changeTime": 1588347784502,
+            "contentHash": "7f2d66d50fc5c181c789d4f6c7998cf56c4d8940"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/appMenus",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784505,
+            "changeTime": 1588347784505,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/siteDotComSites",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/siteDotComSites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784508,
+            "changeTime": 1588347784508,
+            "contentHash": "a3e4e3ce992f516d8a69e12df42029f14deaaf39"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networks",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784517,
+            "changeTime": 1588347784517,
+            "contentHash": "18dfd74470194bfb3e160b06da624001a6aed7f3"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networkBranding",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/networkBranding",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1588347784521,
+            "changeTime": 1588347784521,
+            "contentHash": "37613a0da88a8b5ed8f215030925b91bd6ee2f9d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/audience",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/audience",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784523,
+            "changeTime": 1588347784523,
+            "contentHash": "49a00d8f508f27bec10996b8ac25103c65d5d3a4"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/navigationMenus",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/navigationMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784525,
+            "changeTime": 1588347784525,
+            "contentHash": "f94f222027b62abaa8b75e7de74316300a3b2472"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceConfig",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceConfig",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1588347784530,
+            "changeTime": 1588347784530,
+            "contentHash": "f7ba8b74ee159c6c3872574452794d062980c820"
+        }
+    ]
+]

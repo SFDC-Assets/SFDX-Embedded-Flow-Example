@@ -1,27 +1,5 @@
 {
   "orgName": "fcaron company",
   "edition": "Developer",
-  "features": [],
-  "settings": {
-    "communitiesSettings": {
-      "enableNetworksEnabled": false
-    },
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "pathAssistantSettings": {
-      "pathAssistantEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
-    },
-    "recordPageSettings": {
-      "enableDynamicForms": true
-    }
-  }
+  "features": []
 }

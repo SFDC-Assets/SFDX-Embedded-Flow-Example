@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignments>
+        <name>Grab_Form_Fields</name>
+        <label>Grab Form Fields</label>
+        <locationX>325</locationX>
+        <locationY>50</locationY>
+        <assignmentItems>
+            <assignToReference>AccountToCreate.Name</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <elementReference>Account_Name</elementReference>
+            </value>
+        </assignmentItems>
+        <assignmentItems>
+            <assignToReference>AccountToCreate.Description</assignToReference>
+            <operator>Assign</operator>
+            <value>
+                <elementReference>Your_Name</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>Create_Account_Process</targetReference>
+        </connector>
+    </assignments>
+    <description>Create an account from an embedded context with prefill.</description>
+    <interviewLabel>Create Account Flow {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Create Account Flow</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>Flow</processType>
+    <recordCreates>
+        <name>Create_Account_Process</name>
+        <label>Create Account</label>
+        <locationX>463</locationX>
+        <locationY>50</locationY>
+        <inputReference>AccountToCreate</inputReference>
+    </recordCreates>
+    <screens>
+        <description>Create an account</description>
+        <name>Create_Account</name>
+        <label>Create Account</label>
+        <locationX>187</locationX>
+        <locationY>50</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <connector>
+            <targetReference>Grab_Form_Fields</targetReference>
+        </connector>
+        <fields>
+            <name>GetStartedHelperText</name>
+            <fieldText>&lt;p&gt;To create an account, please provide your desired name in the &quot;Account Name&quot; field. Your name should be automatically populated.&lt;/p&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <fields>
+            <name>Your_Name</name>
+            <dataType>String</dataType>
+            <fieldText>Your Name</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+        <fields>
+            <name>Account_Name</name>
+            <dataType>String</dataType>
+            <fieldText>Account Name</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <start>
+        <locationX>50</locationX>
+        <locationY>50</locationY>
+        <connector>
+            <targetReference>Create_Account</targetReference>
+        </connector>
+    </start>
+    <status>Active</status>
+    <variables>
+        <name>AccountToCreate</name>
+        <dataType>SObject</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <objectType>Account</objectType>
+    </variables>
+</Flow>
