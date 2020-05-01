@@ -26,7 +26,7 @@ If you're familiar with SFDX, you'll have everything you need herein to provisio
 3. Create a new Scratch Org from the definition herein
 4. Log into the Scratch Org and retrieve the JavaScript embed code from the Embedded Service section of Setup.
 5. Update the JS code in the repo to use the unique one for your scratch org.
-6. Deploy the HTML page somewhere (e.g., htmlsave.net)
+6. Deploy the HTML page somewhere (e.g., jsfiddle.net)
 4. Update your `CORS` settings in the Scratch Org to whitelist the web page URL you've deployed
 
 ## Test Org
