@@ -32,14 +32,14 @@
     [
         "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 928,
             "modifiedTime": 1588348473949,
             "changeTime": 1588348473949,
-            "contentHash": "b2d64850035a1d60d76868e17dd3aef5aa2b5844"
+            "contentHash": "b2d64850035a1d60d76868e17dd3aef5aa2b5844",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1326,14 +1326,14 @@
     [
         "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows/Create_Account_Flow.flow-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows/Create_Account_Flow.flow-meta.xml",
             "isDirectory": false,
-            "size": 3627,
-            "modifiedTime": 1588347784347,
-            "changeTime": 1588347784347,
-            "contentHash": "12a0eade76df929ab8659085a0b45fffbfa079a4",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 4029,
+            "modifiedTime": 1588353368416,
+            "changeTime": 1588353368416,
+            "contentHash": "eee8de652da74797211e1bcca0b0de32dd7899ab"
         }
     ],
     [
@@ -2418,27 +2418,27 @@
     [
         "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins/https_frankflowtest_htmlsave_net.corsWhitelistOrigin-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins/https_frankflowtest_htmlsave_net.corsWhitelistOrigin-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1588348473951,
             "changeTime": 1588348473951,
-            "contentHash": "8d3d4aac17d8e177e0c9a817249f644a3c64a3d4"
+            "contentHash": "8d3d4aac17d8e177e0c9a817249f644a3c64a3d4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1588348473951,
             "changeTime": 1588348473951,
-            "contentHash": "333b072e449c657c4542438aadc2474f3f16d3ce"
+            "contentHash": "333b072e449c657c4542438aadc2474f3f16d3ce",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

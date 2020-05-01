@@ -66,6 +66,9 @@
         <fields>
             <name>Your_Name</name>
             <dataType>String</dataType>
+            <defaultValue>
+                <elementReference>varName</elementReference>
+            </defaultValue>
             <fieldText>Your Name</fieldText>
             <fieldType>InputField</fieldType>
             <isRequired>false</isRequired>
@@ -95,5 +98,15 @@
         <isInput>true</isInput>
         <isOutput>true</isOutput>
         <objectType>Account</objectType>
+    </variables>
+    <variables>
+        <name>varName</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <value>
+            <stringValue>Noname</stringValue>
+        </value>
     </variables>
 </Flow>
