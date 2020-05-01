@@ -1,4 +1,4 @@
-# Embedded Flow - SFDX Side
+# Salesforce Platform - External Embedded Flows
 
 This repo contains a practical example of a working embedded flow, which can be integrated into any non-Salesforce external website and allow visitors of a website or app to interact with Salesforce without logging into it or otherwise accessing it.
 
@@ -19,15 +19,15 @@ To accomplish this use case, we're using a few different features:
 
 ## Setup Instructions
 
-If you're familiar with SFDX, you'll have everything you need herein to provision a scratch org with the feature enabled. You'll then need to use the paired lightweight Node.js app (deployed to Heroku, of course) to act as your mock external website.
+If you're familiar with SFDX, you'll have everything you need herein to provision a scratch org with the feature enabled. The HTML file included in this repo is an example of a simple website that embeds the JavaScript.
 
 1. Clone the repo
 2. Authorize your Dev Hub from VSCode
 3. Create a new Scratch Org from the definition herein
 4. Log into the Scratch Org and retrieve the JavaScript embed code from the Embedded Service section of Setup.
-5. Update the JS code in the paired Heroku repo to use the unique one for your scratch org.
-6. Deploy the code to Heroku. Grab the URL for the Heroku app.
-4. Update your `CORS` settings in the Scratch Org to whitelist the Heroku app URL you've deployed
+5. Update the JS code in the repo to use the unique one for your scratch org.
+6. Deploy the HTML page somewhere (e.g., htmlsave.net)
+4. Update your `CORS` settings in the Scratch Org to whitelist the web page URL you've deployed
 
 ## Test Org
 I've got a developer org that I use to demo this. The username is `fcaron+embedtest@salesforce.com`.
