@@ -1,4 +1,7 @@
-# Salesforce Platform - External Embedded Flows
+![Status](https://img.shields.io/badge/status-In%20Development-yellow)
+
+<h1 align="center">Salesforce Platform - External Embedded Flows</h1>
+<p align="center">Lightning Outta This World</p> 
 
 This repo contains a practical example of a working embedded flow, which can be integrated into any non-Salesforce external website and allow visitors of a website or app to interact with Salesforce without logging into it or otherwise accessing it.
 
