@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <name>Set_Query_Var</name>
+        <label>Set Query Var</label>
+        <locationX>95</locationX>
+        <locationY>229</locationY>
+        <actionName>c:GrabQueryParams</actionName>
+        <actionType>component</actionType>
+        <connector>
+            <targetReference>Create_Account</targetReference>
+        </connector>
+        <inputParameters>
+            <name>varName</name>
+            <value>
+                <elementReference>varName</elementReference>
+            </value>
+        </inputParameters>
+        <outputParameters>
+            <assignToReference>varName</assignToReference>
+            <name>varName</name>
+        </outputParameters>
+    </actionCalls>
     <assignments>
         <name>Grab_Form_Fields</name>
         <label>Grab Form Fields</label>
@@ -50,8 +71,8 @@
         <description>Create an account</description>
         <name>Create_Account</name>
         <label>Create Account</label>
-        <locationX>187</locationX>
-        <locationY>50</locationY>
+        <locationX>188</locationX>
+        <locationY>51</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
@@ -84,10 +105,10 @@
         <showHeader>true</showHeader>
     </screens>
     <start>
-        <locationX>50</locationX>
-        <locationY>50</locationY>
+        <locationX>27</locationX>
+        <locationY>71</locationY>
         <connector>
-            <targetReference>Create_Account</targetReference>
+            <targetReference>Set_Query_Var</targetReference>
         </connector>
     </start>
     <status>Active</status>
@@ -105,8 +126,5 @@
         <isCollection>false</isCollection>
         <isInput>true</isInput>
         <isOutput>true</isOutput>
-        <value>
-            <stringValue>Noname</stringValue>
-        </value>
     </variables>
 </Flow>

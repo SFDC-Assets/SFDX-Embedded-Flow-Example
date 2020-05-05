@@ -1,11 +1,13 @@
 ![Status](https://img.shields.io/badge/status-In%20Development-yellow)
 
-<h1 align="center">Salesforce Platform - External Embedded Flows</h1>
+<h1 align="center">Salesforce Platform - External Embedded Flows With Variable Pass-Through</h1>
 <p align="center">Lightning Outta This World</p> 
 
 This repo contains a practical example of a working embedded flow, which can be integrated into any non-Salesforce external website and allow visitors of a website or app to interact with Salesforce without logging into it or otherwise accessing it.
 
-This particular feature has a number of super useful applications, and it's a lesser-known aspect of the digital engagement and Service Cloud side of our Customer 360 Platform
+This particular feature has a number of super useful applications, and it's a lesser-known aspect of the digital engagement and Service Cloud side of our Customer 360 Platform.
+
+We've also taken the implementation one step further by allowing the user to pass in an arbitrary value to the flow from the external app using a simple URL query parameter.
 
 ## Use Case
 
@@ -16,11 +18,11 @@ In this example, a customer wants to embed a form on their existing website that
 To accomplish this use case, we're using a few different features:
 
 - We've enabled Embedded Flows using the Embedded Service Deployment feature
-- We've passed information from the authentication context in the custom website to the Flow by dynamically adjusting the JavaScript code for the Embedded Service Deployment to pass in the variables to the Flow via Flow URL Variables
-- We use the passed-in values to fetch the appropriate data in the Salesforce DB
-- We pre-fill the form appropriately with thos evalues
+- We've passed information from the authentication context in the custom website to the Flow using a query param `varName`
+- We use the passed-in values to modify the flow using a Lightning Component as a Local Action in the flow
+- We pre-fill the form appropriately with thos evalues and allow the flow to complete
 
-Well, anyway, that's what could have worked, but alas, Embedded Service Flows don't support passing in variables this way.
+The fancy footwork is mostly accomplished by the Lightning Component.
 
 ## Setup Instructions
 
@@ -48,4 +50,4 @@ This is a demonstration of the "Embedded Service" feature of Salesforce, and we'
 
 # Questions?
 
-Made with love by Frank Caron.
+Made with love by Frank Caron. Big shout out to [Henry Hai]() for forcing me to be not lazy and calling out the Local Action workaround of sorts.

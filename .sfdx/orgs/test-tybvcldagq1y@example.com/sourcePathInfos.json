@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default",
             "isDirectory": true,
-            "size": 928,
-            "modifiedTime": 1588348473949,
-            "changeTime": 1588348473949,
-            "contentHash": "b2d64850035a1d60d76868e17dd3aef5aa2b5844",
+            "size": 960,
+            "modifiedTime": 1588707044297,
+            "changeTime": 1588707044297,
+            "contentHash": "0c6eca074a6c3db73853440f7ce2c2b6e78bb27b",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -62,10 +62,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1588347784220,
-            "changeTime": 1588347784220,
-            "contentHash": "dfc44b937669b618fcdf8cd46b471e76b92d74ff",
+            "size": 256,
+            "modifiedTime": 1588707044279,
+            "changeTime": 1588707044279,
+            "contentHash": "390ee791ac2c171a36fbe22ec16e387936151355",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1326,14 +1326,14 @@
     [
         "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows/Create_Account_Flow.flow-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows/Create_Account_Flow.flow-meta.xml",
             "isDirectory": false,
+            "size": 4659,
+            "modifiedTime": 1588707044292,
+            "changeTime": 1588707044292,
+            "contentHash": "a4e04fa5708d10129322c755af24d9c7477e6c83",
             "isMetadataFile": true,
-            "size": 4029,
-            "modifiedTime": 1588353368416,
-            "changeTime": 1588353368416,
-            "contentHash": "eee8de652da74797211e1bcca0b0de32dd7899ab"
+            "state": "u"
         }
     ],
     [
@@ -2264,10 +2264,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/flows",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1588347784347,
-            "changeTime": 1588347784347,
-            "contentHash": "b774dc48a8678b4da4a38e4531d511da7bb0d272",
+            "size": 128,
+            "modifiedTime": 1588707044294,
+            "changeTime": 1588707044294,
+            "contentHash": "af838aadc00bf8e2cfaf8a07059a4fdad0c49174",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2433,10 +2433,114 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins",
             "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1588707044296,
+            "changeTime": 1588707044296,
+            "contentHash": "6622f8703abd82e3f6b453fffb11905ead45de0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParams.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParams.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1588707044281,
+            "changeTime": 1588707044281,
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParams.cmp",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParams.cmp",
+            "isDirectory": false,
+            "size": 165,
+            "modifiedTime": 1588707044283,
+            "changeTime": 1588707044283,
+            "contentHash": "bcc142c3bdef64ca66bca9541fde26e83c932c13",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParams.design",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParams.design",
+            "isDirectory": false,
+            "size": 91,
+            "modifiedTime": 1588707044284,
+            "changeTime": 1588707044284,
+            "contentHash": "ebbaa3f8ac20c7c909249063db461005061f5ea3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParamsController.js",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams/GrabQueryParamsController.js",
+            "isDirectory": false,
+            "size": 957,
+            "modifiedTime": 1588707044285,
+            "changeTime": 1588707044285,
+            "contentHash": "7a3c2250c6617b6435c548245e8161894e21f1eb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins/https_jsfiddle_net.corsWhitelistOrigin-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/corsWhitelistOrigins/https_jsfiddle_net.corsWhitelistOrigin-meta.xml",
+            "isDirectory": false,
+            "size": 187,
+            "modifiedTime": 1588707044296,
+            "changeTime": 1588707044296,
+            "contentHash": "cdc0e866c9610dcc6c85633bf66cc2bbd4dacd7a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceBranding/EmbeddedServiceBranding_Parent04I1h00000000L4EAI_171d1f21f48.EmbeddedServiceBranding-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceBranding/EmbeddedServiceBranding_Parent04I1h00000000L4EAI_171d1f21f48.EmbeddedServiceBranding-meta.xml",
+            "isDirectory": false,
+            "size": 613,
+            "modifiedTime": 1588707044298,
+            "changeTime": 1588707044298,
+            "contentHash": "4a9712d061a6f6b3a7da3ee70fffd1739695d1d3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/aura/GrabQueryParams",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1588707044285,
+            "changeTime": 1588707044285,
+            "contentHash": "86d014677cbaedc02db0c0372d395b97fbd83c67",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceBranding",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/embedded-flow-sfdxorg/force-app/main/default/EmbeddedServiceBranding",
+            "isDirectory": true,
             "size": 96,
-            "modifiedTime": 1588348473951,
-            "changeTime": 1588348473951,
-            "contentHash": "333b072e449c657c4542438aadc2474f3f16d3ce",
+            "modifiedTime": 1588707044298,
+            "changeTime": 1588707044298,
+            "contentHash": "3a2dff39935dad5671f2979ac9ccd9910ed1c6ec",
             "isMetadataFile": false,
             "state": "u"
         }
