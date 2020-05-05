@@ -1,9 +1,9 @@
-![Status](https://img.shields.io/badge/status-In%20Development-yellow)
+![Status](https://img.shields.io/badge/status-Beta-yellowgreen)
 
-<h1 align="center">Salesforce Platform - External Embedded Flows With Variable Pass-Through</h1>
-<p align="center">Lightning Outta This World</p> 
+<h1 align="center">External Embedded Flows With Variable Pass-Through</h1>
+<h2 align="center">Lightning Out-ta This World</p> 
 
-This repo contains a practical example of a working embedded flow, which can be integrated into any non-Salesforce external website and allow visitors of a website or app to interact with Salesforce without logging into it or otherwise accessing it.
+This repo contains a practical example of a working Salesforce Customer 360 Platform Embedded Service Deployment external flow, which can be integrated into any non-Salesforce external website and allow visitors of a website or app to interact with Salesforce without logging into it or otherwise accessing it.
 
 This particular feature has a number of super useful applications, and it's a lesser-known aspect of the digital engagement and Service Cloud side of our Customer 360 Platform.
 
