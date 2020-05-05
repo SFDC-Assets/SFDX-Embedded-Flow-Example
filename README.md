@@ -50,4 +50,4 @@ This is a demonstration of the "Embedded Service" feature of Salesforce, and we'
 
 # Questions?
 
-Made with love by Frank Caron. Big shout out to [Henry Hai]() for forcing me to be not lazy and calling out the Local Action workaround of sorts.
+Made with love by Frank Caron. Big shout out to [Henry Hai](https://github.com/hhai) for forcing me to be not lazy and calling out the Local Action workaround of sorts.
