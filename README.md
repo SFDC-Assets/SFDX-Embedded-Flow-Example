@@ -34,7 +34,8 @@ If you're familiar with SFDX, you'll have everything you need herein to provisio
 4. Log into the Scratch Org and retrieve the JavaScript embed code from the Embedded Service section of Setup.
 5. Update the JS code in the repo to use the unique one for your scratch org.
 6. Deploy the HTML page somewhere (e.g., jsfiddle.net)
-4. Update your `CORS` settings in the Scratch Org to whitelist the web page URL you've deployed
+7. Update your `CORS` settings in the Scratch Org to whitelist the web page URL you've deployed
+8. Visit the deployed HTML page and add `?varName=ABC` to the URL to see it work.
 
 ## Test Version
 I've got a developer org that I use to demo this. The username is `fcaron+embedtest@salesforce.com`. While the Scratch Org is alive, you can test [here](https://jsfiddle.net/wp7g413h/7/).
